@@ -1,3 +1,4 @@
+
 # Kwill — Quail Farm Management System
 
 A web app for managing a quail farm: user accounts, a dashboard of key stats, egg
@@ -12,4 +13,5 @@ connection, and render views back to the browser. express-session handles login 
 PDF report export uses Puppeteer to render report pages headlessly. Pushing to GitHub triggers Render to automatically rebuild and redeploy the web service.
 
 <h1>System Architecture</h1>
-<img width="1783" height="607" alt="image" src="https://github.com/user-attachments/assets/c723263a-4f8b-4dfd-b66a-6637cdb6be0e" />
+<img width="537" height="462" alt="e5631a08-f6aa-41f6-a731-57d3d18dca36" src="https://github.com/user-attachments/assets/948602b2-d462-4430-99b3-4686e536b927" />
+
