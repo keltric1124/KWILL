@@ -10,4 +10,6 @@ Kwill is a server-rendered Node.js/Express app — the browser talks directly to
 server that renders EJS pages.Routes hand off to controllers, which query a PostgreSQL database through a pooled
 connection, and render views back to the browser. express-session handles login state;
 PDF report export uses Puppeteer to render report pages headlessly. Pushing to GitHub triggers Render to automatically rebuild and redeploy the web service.
+
+<h1>System Architecture</h1>
 <img width="1783" height="607" alt="image" src="https://github.com/user-attachments/assets/c723263a-4f8b-4dfd-b66a-6637cdb6be0e" />
