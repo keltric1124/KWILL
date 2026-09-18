@@ -5,7 +5,7 @@ A web app for managing a quail farm: user accounts, a dashboard of key stats, eg
 production tracking, quail population & mortality tracking, feed logging, sales &
 expenses, trend charts, and PDF report export.
 
-## System Architecture
+## System Architecture:
 
 Kwill is a server-rendered Node.js/Express app — the browser talks directly to an Express
 server that renders EJS pages.Routes hand off to controllers, which query a PostgreSQL database through a pooled
